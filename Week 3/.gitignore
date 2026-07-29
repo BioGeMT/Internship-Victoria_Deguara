@@ -1,0 +1,5 @@
+.venv
+hejret_test_seedmatch.tsv
+klimentova_test_seedmatch.tsv
+manakov_test_seedmatch.tsv
+manakov_leftout_seedmatch.tsv
