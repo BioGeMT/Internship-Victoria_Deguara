@@ -1,5 +1,10 @@
 .venv
-hejret_test_seedmatch.tsv
-klimentova_test_seedmatch.tsv
-manakov_test_seedmatch.tsv
-manakov_leftout_seedmatch.tsv
+
+AGO2_CLASH_Hejret2023_alignment_score.tsv
+AGO2_CLASH_Hejret2023.csv
+AGO2_eCLIP_Klimentova2022_alignment_score.tsv
+AGO2_eCLIP_Klimentova2022.csv
+AGO2_eCLIP_Manakov2022_leftout_alignment_score.tsv
+AGO2_eCLIP_Manakov2022_leftout.csv
+AGO2_eCLIP_Manakov2022_test_alignment_score.tsv
+AGO2_eCLIP_Manakov2022_test.csv
