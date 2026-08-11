@@ -47,5 +47,3 @@ def seed_match_df():
 
 if __name__ == "__main__":
     seed_match_df()
-
-
